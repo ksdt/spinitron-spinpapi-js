@@ -1,6 +1,6 @@
 {
-  "name": "spinitron",
-  "version": "0.0.1",
+  "name": "spinitron-spinpapi",
+  "version": "0.0.2",
   "description": "bindings for the spinpapi v2 api",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ksdt/spinitron"
+    "url": "https://github.com/ksdt/spinitron-spinpapi-js"
   },
   "keywords": [
     "spinitron"
