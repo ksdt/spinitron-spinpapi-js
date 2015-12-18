@@ -3,11 +3,10 @@
   "version": "0.0.1",
   "description": "bindings for the spinpapi v2 api",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
-      "type": "git",
-      "url": "https://github.com/ksdt/spinitron"
+    "type": "git",
+    "url": "https://github.com/ksdt/spinitron"
   },
   "keywords": [
     "spinitron"
@@ -20,5 +19,8 @@
     "request": "^2.67.0"
   },
   "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^8.0.2",
+    "valid-url": "^1.0.9"
   }
 }
