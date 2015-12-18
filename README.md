@@ -5,7 +5,7 @@ javascript client for spinitron's SpinPapi API v2 https://spinitron.com/user-gui
 ##Usage
 
 ```javascript
-var spinitron = require('spinitron');
+var spinitron = require('spinitron-spinpapi');
 
 spinitron = new spinitron({
                     station: 'ksdt',  /* optional */
