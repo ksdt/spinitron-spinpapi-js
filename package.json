@@ -1,6 +1,6 @@
 {
   "name": "spinitron-spinpapi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "bindings for the spinpapi v2 api",
   "main": "index.js",
   "scripts": {
